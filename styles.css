@@ -8,16 +8,16 @@
 	background-color: rgb(135, 206, 235);
 }
 p{
-	margin:10px;
+	margin:10px 0;
 }
-.paragraphs p:first-child {
+article p:first-child {
     background-color: black;
     color: white;
 }
-.paragraphs p:nth-child(2){
+article p:nth-child(2){
 	color:black;
 }
-.paragraphs p:last-child{
+article p:last-child{
 	color:red;
 }
 
